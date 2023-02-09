@@ -3,3 +3,9 @@ body{
     font-weight: bold;
     color:azure;
 }
+
+h1{
+    color: azure;
+    font-size: 50px;
+    text-align: center;
+}
